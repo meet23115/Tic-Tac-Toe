@@ -59,7 +59,7 @@ Array.from(boxes).forEach(element =>{
             if(!isGameOver){
                 document.getElementsByClassName("info")[0].innerText = "Player "+ turn + "'s turn";
             }
-        }        
+        }
     })
 })
 
